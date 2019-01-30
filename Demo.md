@@ -25,6 +25,8 @@ Whatever obvious it seems to you - doesn't matter!
 ##last
 
 Take a look at alternatives!
+
+
 #additional steps we gonna take here
 
 * try different style of presentation
