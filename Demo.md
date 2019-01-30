@@ -8,3 +8,7 @@ _a brief demo of change flow in git_
 * second 
 * third
 * last
+
+##first step
+
+Deal on the basic _flow_ you want to have in your version control
