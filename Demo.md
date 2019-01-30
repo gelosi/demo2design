@@ -12,3 +12,7 @@ _a brief demo of change flow in git_
 ##first step
 
 Deal on the basic _flow_ you want to have in your version control
+
+##second step 
+
+Make sure you have agreed on the flow with your colleagues
