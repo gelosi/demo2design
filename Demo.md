@@ -21,3 +21,7 @@ Make sure you have agreed on the flow with your colleagues
 
 Write and share a simple document about the approach you use
 Whatever obvious it seems to you - doesn't matter!
+
+##last
+
+Take a look at alternatives!
