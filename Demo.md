@@ -25,3 +25,14 @@ Whatever obvious it seems to you - doesn't matter!
 ##last
 
 Take a look at alternatives!
+#additional steps we gonna take here
+
+* try different style of presentation
+* change colors?
+
+##brand alternative explanation of using git
+
+We are now trying to show there's no one true and geninune way of using version control.
+It's up to you and to your colleagues to decide what's works best for you.
+
+
