@@ -2,9 +2,14 @@
 
 _a brief demo of change flow in git_
 
-#steps
+#steps we gonna take alternatively
 
-* first 
 * second 
-* third
 * last
+
+#additional steps we gonna take here
+
+* try different style of presentation
+* change colors?
+
+
